@@ -1,0 +1,14 @@
+.portfolio-btn {
+    border-radius: 35px;
+    border: none;
+    padding: 5px;
+    width: 70px;
+    height: 70px;
+    text-align: center;
+    align-items: center;
+    outline: none;
+    background-color: #1515159b;
+    color: white;
+    cursor: pointer;
+    transition: 0.2s ease-in-out;
+}
